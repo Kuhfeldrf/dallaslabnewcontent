@@ -11,13 +11,27 @@ This repository contains the content for the Dallas Lab website at Oregon State 
 │   ├── main_website_content.md     # Main page content
 │   └── [service-pages].md          # Secondary service pages (Q&A format)
 ├── images_for_site/                # Image assets for the website
-├── catagorized_publications.csv    # Categorized publications with keywords
+├── catagorizing_publications.csv   # Categorized publications with keywords
 └── README.md                       # This file
 ```
 
+### Quick Navigation
+- **Main Page Content**: [main_website_content.md](pages/main_website_content.md)
+- **All Pages Directory**: [pages/](pages/)
+- **Images**: [images_for_site/](images_for_site/)
+
+#### Individual Service Pages
+- **Getting Started Guide**: [getting_started_page.md](pages/getting_started_page.md)
+- **Services & Pricing**: [services_pricing_page.md](pages/services_pricing_page.md)
+- **Protein & Peptide Analysis**: [services_protein_peptide_page.md](pages/services_protein_peptide_page.md)
+- **Functional Analysis**: [services_functional_page.md](pages/services_functional_page.md)
+- **In Vitro Digestion**: [services_digestion_page.md](pages/services_digestion_page.md)
+- **Method Development**: [services_method_dev_page.md](pages/services_method_dev_page.md)
+- **Scientific Writing**: [services_writing_page.md](pages/services_writing_page.md)
+
 ## Content Organization
 
-### Main Page (`main_website_content.md`)
+### Main Page ([`main_website_content.md`](pages/main_website_content.md))
 - Located in the `pages/` directory
 The main page file contains summarized content organized into three main sections:
 1. **Research Section** - Overview of current research areas
@@ -30,6 +44,15 @@ The main page file contains summarized content organized into three main section
 - Each page focuses on specific services or research areas
 - Linked from the main page content
 
+**Available Service Pages:**
+- **[Getting Started Guide](pages/getting_started_page.md)** - Project consultation and process overview
+- **[Services & Pricing](pages/services_pricing_page.md)** - Detailed pricing and service information
+- **[Protein & Peptide Analysis](pages/services_protein_peptide_page.md)** - Proteomics and peptidomics services
+- **[Functional Analysis](pages/services_functional_page.md)** - Bioactivity and functional testing
+- **[In Vitro Digestion](pages/services_digestion_page.md)** - Digestion modeling and simulation
+- **[Method Development](pages/services_method_dev_page.md)** - Custom analytical method creation
+- **[Scientific Writing](pages/services_writing_page.md)** - Literature reviews and regulatory documentation
+
 ### Images
 - Stored in the `images_for_site/` folder
 - Referenced within markdown files using relative paths
@@ -38,7 +61,7 @@ The main page file contains summarized content organized into three main section
 - Please add additional images as the current selection is weak
 
 ### Publications Database
-- **File**: `catagorized_publications.csv`
+- **File**: [`catagorizing_publications.csv`](catagorizing%20publications.csv)
 - **Purpose**: Spreadsheet containing recent lab publications grouped by associated keywords
 - **Usage**: Keywords can be used to dynamically link publications to relevant services and research topics
 - **Implementation**: Web developer can use this data to create publication sections on relevant pages
@@ -67,11 +90,11 @@ The main page file contains summarized content organized into three main section
    - Please use your discretion to improve the images for the website
 
 5. **Publications Integration**:
-   - Use `catagorized_publications.csv` to  associated publication to key words
-   - the key words and topics in `catagorized_publications.csv` are the pulled from the reaserch and services in the main page
+   - Use [`catagorizing_publications.csv`](catagorizing%20publications.csv) to  associated publication to key words
+   - the key words and topics in `catagorizing_publications.csv` are the pulled from the reaserch and services in the main page
 
 6. **Navigation**: 
-   - Use `main_website_content.md` as the navigation reference
+   - Use [`main_website_content.md`](pages/main_website_content.md) as the navigation reference
    - Create links to secondary pages as indicated in the main content
    - Ensure responsive navigation for mobile devices
 

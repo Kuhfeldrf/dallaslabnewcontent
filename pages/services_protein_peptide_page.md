@@ -63,23 +63,23 @@ This technology allows us to provide deeper insights than standard analytical me
 
 **Q: Can you show me examples of your recent work and how it applies to industry challenges?**
 
-**[Solving Bitter Taste Problems in Aged Cheese](link-to-paper)**
-*Kuhfeld et al. (2023), Food Chemistry*
-We identified exactly which peptides cause bitter taste in aged cheddar cheese using advanced fractionation and peptidomics combined with sensory analysis. This research helps cheese makers understand and control bitterness during aging.
-
-**[Understanding Lactoferrin Digestion for Better Infant Nutrition](link-to-paper)**
+**[Understanding Lactoferrin Digestion for Better Infant Nutrition](https://health.oregonstate.edu/research/publications/103390nu16142360)**
 *Kim et al. (2024), Nutrients*
 We compared how human milk lactoferrin, recombinant human lactoferrin, and bovine lactoferrin behave during digestion. This study helps infant formula companies understand which lactoferrin sources provide optimal bioactive peptide release.
 
-**[Optimizing Whey Protein Functionality](link-to-paper)**
+**[Solving Bitter Taste Problems in Aged Cheese](https://health.oregonstate.edu/research/publications/10.1016/j.foodchem.2023.138111)**
+*Kuhfeld et al. (2023), Food Chemistry*
+We identified exactly which peptides cause bitter taste in aged cheddar cheese using advanced fractionation and peptidomics combined with sensory analysis. This research helps cheese makers understand and control bitterness during aging.
+
+**[Optimizing Whey Protein Functionality](https://health.oregonstate.edu/research/publications/103390foods10092028)**
 *Qu et al. (2021), Foods*
 We developed advanced methods to analyze glycomacropeptide from kappa-casein, a valuable bioactive component in whey. This research helps companies optimize whey processing to preserve and enhance beneficial compounds.
 
-**[Whey Protein Survival During Digestion](link-to-paper)**
+**[Whey Protein Survival During Digestion](https://health.oregonstate.edu/research/publications/101016jfoodchem2024142013)**
 *Sutantawong et al. (2024), Food Chemistry*
 We tracked which whey proteins survive digestion intact in real humans versus laboratory models. This research helps companies design products where proteins need to reach specific parts of the digestive system intact.
 
-**[Maximizing Bioactive Peptide Release from Whey](link-to-paper)**
+**[Maximizing Bioactive Peptide Release from Whey](https://health.oregonstate.edu/research/publications/101016jjff2024106540)**
 *Sutantawong et al. (2024), Journal of Functional Foods*
 We mapped exactly which bioactive peptides are released when whey proteins are digested by humans. This research guides product developers in optimizing processing conditions to maximize health-promoting peptide formation.
 

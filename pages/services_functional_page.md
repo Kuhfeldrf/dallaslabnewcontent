@@ -46,11 +46,11 @@ A: Functional analysis can help you:
 
 **Q: Can you show me examples of how functional testing has solved real problems?**
 
-**[Proving Milk Peptides Actually Get Absorbed](link-to-paper)**
+**[Proving Milk Peptides Actually Get Absorbed](https://health.oregonstate.edu/research/publications/101021acsjafc2c01246)**
 *Liang et al. (2022), Journal of Agricultural and Food Chemistry*
 We used Caco-2 cell models to prove that specific peptides from digested human milk can actually cross the intestinal barrier and enter the bloodstream. This research helps infant formula companies understand which processing conditions create peptides that babies can actually absorb and benefit from.
 
-**[Demonstrating Real Immune Benefits](link-to-paper)**
+**[Demonstrating Real Immune Benefits](https://health.oregonstate.edu/research/publications/101093jnnxab350)**
 *Liang et al. (2021), The Journal of Nutrition*
 We showed that peptides from human milk digestion actually modulate immune cell behavior in THP-1 macrophages, proving these compounds have genuine immunomodulatory effects. This type of evidence is essential for companies developing immune-supporting dairy products and seeking to make science-backed health claims.
 

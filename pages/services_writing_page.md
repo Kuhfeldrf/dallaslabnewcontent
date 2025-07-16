@@ -60,30 +60,30 @@ Systematic reviews are particularly valuable for regulatory submissions because 
 **Q: Can you show me examples of the scientific writing projects you've completed?**
 
 **Regulatory Safety Documentation:**
-**[Safety Review for Novel Food Ingredient Approval](link-to-paper)**
+**[Safety Review for Novel Food Ingredient Approval](https://health.oregonstate.edu/research/publications/101016jfct2024114727)**
 *Vishwanath-Deutsch et al. (2024), Food and Chemical Toxicology*
 We conducted a comprehensive safety review of recombinant human lactoferrin for use as a food ingredient, synthesizing toxicological data to support regulatory approval.
 
 **Industry Policy and Framework Development:**
-**[FDA/NIH Workshop Summary on Infant Formula Safety](link-to-paper)**
+**[FDA/NIH Workshop Summary on Infant Formula Safety](https://health.oregonstate.edu/research/publications/101016jjpeds202211027)**
 *Donovan et al. (2022), The Journal of Pediatrics*
 We contributed to summarizing a joint NIH-FDA workshop on bioactive ingredients in infant formula, helping establish assessment frameworks for industry.
 
 **Comprehensive Literature Reviews and Databases:**
-**[Bioactive Milk Peptides: Complete Database and Overview](link-to-paper)**
+**[Bioactive Milk Peptides: Complete Database and Overview](https://health.oregonstate.edu/research/publications/1010801040839820232240396)**
 *Nielsen et al. (2023), Critical Reviews in Food Science and Nutrition*
 We created a comprehensive database and critical review of bioactive milk peptides, providing industry with a complete reference for product development.
 
-**[Bitter Peptides in Cheese: Database and Property Analysis](link-to-paper)**
+**[Bitter Peptides in Cheese: Database and Property Analysis](https://health.oregonstate.edu/research/publications/1010801040839820232220792)**
 *Kuhfeld et al. (2023), Critical Reviews in Food Science and Nutrition*
 We developed a comprehensive database correlating cheese-derived bitter peptides to their physical properties, providing cheese makers with practical tools for controlling bitterness.
 
 **Strategic Market Analysis:**
-**[Prebiotic Strategies for Lactose Intolerance Management](link-to-paper)**
+**[Prebiotic Strategies for Lactose Intolerance Management](https://health.oregonstate.edu/research/publications/101016jlwt2024117291)**
 *Angima et al. (2024), Nutrients*
 We synthesized research on prebiotic approaches to managing lactose intolerance, identifying market opportunities for functional dairy products.
 
-**[Prebiotic Properties of Whey Protein Components](link-to-paper)**
+**[Prebiotic Properties of Whey Protein Components](https://health.oregonstate.edu/research/publications/105851kosfa2024e12)**
 *Rackerby et al. (2024), Food Science of Animal Resources*
 We reviewed the potential prebiotic properties of whey protein and glycomacropeptide, providing evidence for health claims and product positioning.
 

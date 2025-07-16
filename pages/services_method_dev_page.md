@@ -62,15 +62,15 @@ A: Consider method development when:
 
 **Q: Can you show me examples of methods you've developed?**
 
-**[Optimizing Sample Preparation for Complex Biological Matrices](link-to-paper)**
+**[Optimizing Sample Preparation for Complex Biological Matrices](https://health.oregonstate.edu/research/publications/103390foods12020299)**
 *Qu et al. (2023), Foods*
 We systematically compared different solid-phase extraction approaches for monitoring caseinomacropeptide survival during digestion. This work shows how proper sample preparation method development is crucial for accurate analysis in challenging biological matrices.
 
-**[Comprehensive Extraction Method Comparison](link-to-paper)**
+**[Comprehensive Extraction Method Comparison](https://health.oregonstate.edu/research/publications/101016jfoodchem2022133864)**
 *Koh et al. (2022), Food Chemistry*
 We developed and compared three different extraction methods for analyzing caseinomacropeptide in feeding materials and biological fluids. This systematic approach demonstrates how method development identifies the optimal extraction strategy for each specific application.
 
-**[Pioneering Top-Down Glycopeptidomics Methods](link-to-paper)**
+**[Pioneering Top-Down Glycopeptidomics Methods](https://health.oregonstate.edu/research/publications/101093jnnxab400)**
 *Koh et al. (2021), The Journal of Nutrition*
 We developed cutting-edge top-down glycopeptidomics methods to analyze intact glycomacropeptide and its digestion products in human samples. This represents breakthrough method development for analyzing complex glycosylated peptides that conventional methods cannot handle.
 
