@@ -1,0 +1,13 @@
+# Exclude other documents folder
+other documents/
+
+# Exclude Excel files (old format)
+*.xlsx
+*.xls
+
+# Common files to ignore
+*.tmp
+*.log
+~$*
+.DS_Store
+Thumbs.db 
