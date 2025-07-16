@@ -1,5 +1,7 @@
 # Getting Started: Your Guide to Our Research Services
 
+![Dallas Lab Services](../images_for_site/main_digestion_services.jpg)
+
 ## What Information Do We Need From You?
 
 **Q: What should I prepare before contacting you about a project?**

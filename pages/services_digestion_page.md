@@ -56,11 +56,15 @@ A: We're one of the few laboratories offering advanced in vitro digestion modeli
 
 **Q: Can you show me examples of how in vitro digestion has provided valuable insights?**
 
-**[Proving Milk Peptides Actually Get Absorbed](link-to-paper)**
+**[Understanding Lactoferrin Digestion for Better Infant Nutrition](https://health.oregonstate.edu/research/publications/103390nu16142360)**
+*Kim et al. (2024), Nutrients*
+We compared how human milk lactoferrin, recombinant human lactoferrin, and bovine lactoferrin behave during digestion. This study helps infant formula companies understand which lactoferrin sources provide optimal bioactive peptide release.
+
+**[Proving Milk Peptides Actually Get Absorbed](https://health.oregonstate.edu/research/publications/101021acsjafc2c01246)**
 *Liang et al. (2022), Journal of Agricultural and Food Chemistry*
 We used in vitro digestion followed by Caco-2 cell absorption studies to prove that specific peptides from human milk digestion can actually cross the intestinal barrier. This research showed that digestion is essential for creating absorbable bioactive compounds.
 
-**[Comparing Laboratory vs. Real-World Digestion](link-to-paper)**
+**[Comparing Laboratory vs. Real-World Digestion](https://health.oregonstate.edu/research/publications/101093jnnxab350)**
 *Liang et al. (2021), The Journal of Nutrition*
 We compared peptides generated from in vitro digestion with those found in actual human digestive samples, proving our laboratory models accurately predict real-world digestion. This validation study demonstrates that in vitro digestion can reliably predict what happens in humans.
 

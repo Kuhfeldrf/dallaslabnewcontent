@@ -1,5 +1,7 @@
 # Services & Pricing
 
+![Dallas Lab Services](../images_for_site/main_digestion_services.jpg)
+
 ## About Our Services
 
 The Dallas Lab offers a comprehensive suite of analytical services for milk and dairy research. Our state-of-the-art facilities and experienced team provide high-quality results for both academic and industry clients.
