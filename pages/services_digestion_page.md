@@ -109,7 +109,7 @@ A: Infant digestive systems are fundamentally different from adults - they have 
 
 ---
 
-*For detailed service descriptions, current pricing, and custom protocol development options, please visit our **[Services & Pricing Page](services_pricing_page.md)** or **[Getting Started Guide](getting_started_page.md)** to design the optimal digestion study for your research needs.*
+*For detailed service descriptions, current pricing, and custom protocol development options, please visit our **[Services & Pricing Page](services_pricing_page.md)** or **[Getting Started Guide](getting_started_page.md)** or **[Q&A Page](qa_pages.md)** to design the optimal digestion study for your research needs.*
 
 ## Service Images
 

@@ -104,7 +104,7 @@ We developed cutting-edge top-down glycopeptidomics methods to analyze intact gl
 
 ---
 
-*For detailed service descriptions, project scope options, and custom development quotes, please visit our **[Services & Pricing Page](services_pricing_page.md)** or **[Getting Started Guide](getting_started_page.md)** to assess your method development needs.*
+*For detailed service descriptions, project scope options, and custom development quotes, please visit our **[Services & Pricing Page](services_pricing_page.md)** or **[Getting Started Guide](getting_started_page.md)** or **[Q&A Page](qa_pages.md)** to assess your method development needs.*
 
 ## Service Images
 

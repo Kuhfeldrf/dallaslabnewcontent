@@ -317,5 +317,6 @@ The Dallas Lab offers a comprehensive suite of analytical services for milk and 
 
 📧 **Contact us** at Contact-dallaslab@oregonstate.edu to discuss your analytical needs  
 
+Have questions? Visit our **[Q&A Page](qa_pages.md)** for common answers.
 
 *All pricing effective as of current date and subject to change. Contact us for the most current pricing and availability.*

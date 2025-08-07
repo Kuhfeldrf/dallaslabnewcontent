@@ -147,7 +147,7 @@ A: Our scientific writing meets the highest academic and regulatory standards th
 
 ---
 
-*For detailed service descriptions, current pricing, and custom project estimates, please visit our **[Services & Pricing Page](services_pricing_page.md)** or **[Getting Started Guide](getting_started_page.md)** to design the optimal writing strategy for your business needs.*
+*For detailed service descriptions, current pricing, and custom project estimates, please visit our **[Services & Pricing Page](services_pricing_page.md)** or **[Getting Started Guide](getting_started_page.md)** or **[Q&A Page](qa_pages.md)** to design the optimal writing strategy for your business needs.*
 
 ## Service Images
 

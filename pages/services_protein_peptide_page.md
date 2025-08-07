@@ -117,7 +117,7 @@ We work with various sample types:
 
 ---
 
-*For detailed service descriptions, current pricing, and package options, please visit our **[Services & Pricing Page](services_pricing_page.md)** or **[Getting Started Guide](getting_started_page.md)** to explore how advanced protein and peptide analysis can benefit your business.*
+*For detailed service descriptions, current pricing, and package options, please visit our **[Services & Pricing Page](services_pricing_page.md)** or **[Getting Started Guide](getting_started_page.md)** or **[Q&A Page](qa_pages.md)** to explore how advanced protein and peptide analysis can benefit your business.*
 
 ## Service Images
 

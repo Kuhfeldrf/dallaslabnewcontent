@@ -117,7 +117,7 @@ This integrated approach provides the strongest possible evidence for product ef
 
 ---
 
-*For detailed assay descriptions, current pricing, and custom testing options, please visit our **[Services & Pricing Page](services_pricing_page.md)** or **[Getting Started Guide](getting_started_page.md)** to design the perfect functional testing strategy for your compounds and goals.*
+*For detailed assay descriptions, current pricing, and custom testing options, please visit our **[Services & Pricing Page](services_pricing_page.md)** or **[Getting Started Guide](getting_started_page.md)** or **[Q&A Page](qa_pages.md)** to design the perfect functional testing strategy for your compounds and goals.*
 
 ## Service Images
 

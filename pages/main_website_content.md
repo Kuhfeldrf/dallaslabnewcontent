@@ -199,3 +199,5 @@ Dairy presents unique analytical challenges due to its complex matrix. Our speci
 The Dallas Lab at Oregon State University is dedicated to unraveling the biological secrets of human and bovine milk. Our multidisciplinary team investigates how milk's proteins and peptides are affected by digestion and how these components support infant and adult health. We are passionate about developing innovative processing methods that preserve milk's bioactivity, with the goal of improving nutrition and health outcomes for all ages.
 
 ![About Us](../images_for_site/main_aboutus.png)
+
+Have questions? Visit our **[Q&A Page](qa_pages.md)**.
